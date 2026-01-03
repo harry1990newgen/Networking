@@ -1,4 +1,5 @@
-![Uploading types-api.jpg…]()
+![types-api](https://github.com/user-attachments/assets/42da27c3-b92f-4761-b573-6e92bef2c548)
+
 
 ![restapi](https://github.com/user-attachments/assets/a4db79f9-3c6b-4cf1-accc-70a03ee0e978)
 
