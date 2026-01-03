@@ -120,4 +120,3 @@ Acts as a **single entry point** for APIs, routing requests to the correct backe
 
 ---
 
-⭐ *If this helped you, consider starring the repository!*
