@@ -1,0 +1,14 @@
+ports : 65535 total ports
+
+http : 80 
+https : 443
+--------------
+dns : 53/54
+--------------
+jenkins : 8080 
+---------------
+ssh : 22 (tranfer data in encoded formate )
+telnet : 23  (it tranfer data in plain text --> can be hacked easily )
+----------------
+icmp
+dhcp 
